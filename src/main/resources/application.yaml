@@ -1,0 +1,6 @@
+server:
+  port: 8099
+
+openweathermap:
+  api:
+    key: 2897583c669e2fd3282a41052e5a3886
